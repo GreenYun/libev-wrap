@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+
+!CMakeLists.txt
+!config.h.cmake.in
+
+!meson.build
+!libev.wrap

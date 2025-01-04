@@ -1,0 +1,7 @@
+[wrap-file]
+directory = libev
+source_filename = libev.tar.gz
+patch_directory = libev
+
+[provide]
+ev = ev_dep
